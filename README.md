@@ -25,8 +25,8 @@ We provide two ways to set up the environment. **Conda is highly recommended** t
 ### Option 1: Using Conda (Recommended)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-cd YOUR_REPOSITORY_NAME
+git clone https://github.com/JieZhou1025/Root-nematode-interaction.git
+cd Root-nematode-interaction
 conda env create -f environment.yml
 conda activate root-transunet  # Replace with the actual name in your yml if different
 ```
