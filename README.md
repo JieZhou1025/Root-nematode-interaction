@@ -64,6 +64,11 @@ Because the original petri dish scans are extremely high-resolution, feeding the
 2. Point the input folder to the directory containing the predicted masks from Step 2.
 3. Run the stitching script. The script will automatically parse the filenames, reconstruct the coordinates, and merge the patches back into the full-scale petri dish segmentation map.
 
+### Step 4: Traits analysis
+
+1. ***
+2. ***
+
 ---
 
 ## 📖 Citation
