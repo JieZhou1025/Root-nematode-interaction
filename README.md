@@ -74,6 +74,6 @@ If you find our model or code useful in your research, please consider citing ou
 ```bibtex
 @article{RootTransUNet,
   title={Root-TransUNet enables high-throughput phenotyping of Arabidopsis thaliana roots as a parameter in Heterodera schachtii parasitism},
-  author={Jie Zhou1, Victor Hugo Moura de Souza2, Lei Ju3, Sebastian Eves-van den Akker2, Ji Zhou1,3, Olaf Prosper Kranse2}
+  author={Jie Zhou, Victor Hugo Moura de Souza, Lei Ju, Sebastian Eves-van den Akker, Ji Zhou, Olaf Prosper Kranse}
 }
 ```
